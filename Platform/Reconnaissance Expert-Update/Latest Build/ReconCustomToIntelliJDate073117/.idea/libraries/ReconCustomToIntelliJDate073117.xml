@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="ReconCustomToIntelliJDate073117">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jinput-test.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jinput.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TETJavaClient.jar!/" />
+      <root url="jar://$PROJECT_DIR$/acm.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

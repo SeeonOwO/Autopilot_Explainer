@@ -1,0 +1,6 @@
+about this version
+
+matches commit 84655e4 on july 31 2017
+
+Fixed scoring denominator so there is always 12 possible points if there is a detection task. 
+Score no longer depends on response time when the trial does not contain a threat.

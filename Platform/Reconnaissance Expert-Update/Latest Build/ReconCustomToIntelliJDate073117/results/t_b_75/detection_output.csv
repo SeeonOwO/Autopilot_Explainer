@@ -1,0 +1,4 @@
+2023-10-18 10:32:57.531
+Trial Number,Time Stamp,Relative Start Time,Threat Present,Threat Position,Warning Generated,Trigger Pulled,Time Until Trigger Pull (10000 if not pulled),Time Until First Toggle,Detection Score,Tracking Score,RMS,On Tracker Screen Proportion,Toggle Count,Image 0, Image 1,Image 2,Image 3
+1,2023-10-18 10:32:59.147,1620.0,false,1,DANGER,false,10000.0,2095.0,5.0,8.0,47.92803068895524,0.7164179104477612,6,583_0.0_conf.png,281_0.59_conf.png,789_0.0_conf.png,414_0.0_conf.png,
+2,2023-10-18 10:33:24.167,26640.0,false,-1,CLEAR,false,10000.0,-1.0,5.0,0.0,327.68254767163273,1.0,0,744_0.0_conf.png,459_0.0_conf.png,110_0.18_conf.png,613_0.0_conf.png,

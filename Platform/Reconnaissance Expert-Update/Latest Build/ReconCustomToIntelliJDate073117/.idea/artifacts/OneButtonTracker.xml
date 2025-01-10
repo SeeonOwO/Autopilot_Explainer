@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="OneButtonTracker">
+    <output-path>$PROJECT_DIR$/out/artifacts/OneButtonTracker</output-path>
+    <root id="archive" name="OneButtonTracker.jar">
+      <element id="library" level="project" name="ReconCustomToIntelliJDate073117" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="file-copy" path="$PROJECT_DIR$/acm.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/jinput.jar" />
+      <element id="module-output" name="ReconCustomToIntelliJDate073117" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,7 @@
+2023-10-11 17:12:19.596
+Trial Number,Time Stamp,Relative Start Time,Threat Present,Threat Position,Warning Generated,Trigger Pulled,Time Until Trigger Pull (10000 if not pulled),Time Until First Toggle,Detection Score,Tracking Score,RMS,On Tracker Screen Proportion,Toggle Count,Image 0, Image 1,Image 2,Image 3
+1,2023-10-11 17:12:21.221,1626.0,false,-1,CLEAR,false,10000.0,1180.0,5.0,9.0,30.30143097973389,0.8391959798994975,4,252_0.22_conf.png,636_0.45_conf.png,771_0.2_conf.png,83_0.0_conf.png,
+2,2023-10-11 17:12:41.629,22034.0,true,1,DANGER,true,2223.0,704.0,3.8885,8.0,46.23666242368559,0.825,6,742_0.0_conf.png,286_0.99_conf.png,638_0.46_conf.png,660_0.0_conf.png,
+3,2023-10-11 17:13:00.698,41103.0,false,1,DANGER,false,10000.0,1567.0,5.0,8.0,40.22524993455322,0.7960199004975125,6,583_0.0_conf.png,281_0.59_conf.png,789_0.0_conf.png,414_0.0_conf.png,
+4,2023-10-11 17:13:19.962,60367.0,true,0,DANGER,true,1842.0,783.0,4.079,9.0,34.50878253911841,0.9346733668341709,2,259_0.99_conf.png,766_0.41_conf.png,226_0.15_conf.png,717_0.0_conf.png,
+5,2023-10-11 17:13:37.163,77568.0,false,-1,CLEAR,false,10000.0,82.0,5.0,7.0,58.24252862301476,0.751269035532995,4,110_0.18_conf.png,744_0.0_conf.png,459_0.0_conf.png,613_0.0_conf.png,

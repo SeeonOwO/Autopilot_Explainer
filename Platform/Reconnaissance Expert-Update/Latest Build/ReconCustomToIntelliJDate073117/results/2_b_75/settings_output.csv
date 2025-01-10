@@ -1,0 +1,27 @@
+Is Control Run,false
+Is Using New Graphics,false
+Tracking Practice Trials,1
+Tracking And Detection Practice Trials,1
+Experiment Trials,40
+Alarm Is Binary,true
+Visual Alert Enabled,true
+Auditory Alert Enabled,true
+Danger Alerts Only Enabled,false
+Reliability Profile,Predictive Value
+Overall Reliability %,75
+Hit Rate %,83
+Correct Rejection Rate %,71
+Positive Predictive Value %,55
+Negative Predictive Value %,90
+Tracking Difficulty Multiplier,1.0
+Survey Frequency,1
+Survey Reminder Frequency (Exp only),0
+End Of Experiment Survey Reminder Enabled,false
+Break Frequency,50
+Generation Is Random,true
+Message 1,2
+Message 2,2
+Quota Hit,10
+Quota Miss,2
+Quota False Alarm,8
+Quota Correction Rejection,20

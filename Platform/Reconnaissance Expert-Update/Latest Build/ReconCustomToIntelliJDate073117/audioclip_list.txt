@@ -1,0 +1,4 @@
+sounds/danger.wav
+sounds/caution.wav
+sounds/possible.wav
+sounds/clear.wav

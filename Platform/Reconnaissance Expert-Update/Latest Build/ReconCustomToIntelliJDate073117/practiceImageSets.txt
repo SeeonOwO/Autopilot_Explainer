@@ -1,0 +1,8 @@
+1P 2A 3A 4A 0.98 bi:red   li:red
+1A 2A 3A 4A 0.0 bi:green li:darkGreen
+1A 2A 3A 4A 0.87 bi:red   li:red
+1A 2P 3A 4A 0.0 bi:green li:darkGreen
+1P 2A 3A 4A 0.63 bi:red   li:amber
+1A 2A 3A 4A 0.44 bi:green li:lightGreen
+1A 2A 3A 4A 0.53 bi:red   li:amber
+1A 2P 3A 4A 0.77 bi:red li:lightGreen
